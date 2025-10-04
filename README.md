@@ -1,4 +1,4 @@
-# Multimodal IMDB Genre Classification — CNN & LSTM
+# Multimodal IMDB Genre Classification - CNN & LSTM
 
 This project focuses on predicting **movie genres** using both **poster images** and **text overviews**, combining computer vision and natural language processing in one workflow.
 
